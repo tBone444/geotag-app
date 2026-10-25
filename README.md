@@ -11,7 +11,7 @@ The project started with a responsive HTML/CSS interface and was extended with b
 
 ## Screenshots
 
-![GeoTagApp – Main Page](Screenshots/frontpage.png)
+![GeoTagApp – Main Page](Screenshots/frontpage.PNG)
 
 *Main interface with the tagging form, nearby GeoTags, and interactive map.*
 
