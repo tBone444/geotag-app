@@ -24,10 +24,6 @@ The project started with a responsive HTML/CSS interface and was extended with b
 
 *Searching for GeoTags and displaying nearby locations.*
 
-![Pagination](screenshots/pagination.png)
-
-*Paginated search results.*
-
 </details>
 
 ## Features
