@@ -13,7 +13,7 @@ The project started with a responsive HTML/CSS interface and was extended with b
 
 <!-- Replace these placeholders with screenshots of the running app. -->
 
-![GeoTagApp overview](screenshots/overview.png)
+![GeoTagApp overview](Screenshots/frontpage.png)
 
 *Main interface with the tagging form, nearby GeoTags, and interactive map.*
 
