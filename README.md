@@ -15,13 +15,6 @@ The project started with a responsive HTML/CSS interface and was extended with b
 
 *Main interface with the tagging form, nearby GeoTags, and interactive map.*
 
-
-![GeoTag search](screenshots/search.png)
-
-*Searching for GeoTags and displaying nearby locations.*
-
-</details>
-
 ## Features
 
 - **Create GeoTags:** Record a name, optional hashtag, and geographical coordinates.
