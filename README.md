@@ -7,7 +7,7 @@ A location-based web application for creating, searching, and exploring GeoTags 
 
 The project started with a responsive HTML/CSS interface and was extended with browser geolocation, server-side JavaScript, and asynchronous communication through a REST API.
 
-> **Project context:** This is a learning project developed as part of a university lab. Team members developed and discussed their own solutions before selecting a shared submission. The final REST/AJAX exercise and optional pagination were independently presented and defended by me during the lab assessment. The final submitted code is a collaborative result.
+> **Project context:** This is a learning project developed as part of a university lab.
 
 ## Screenshots
 
