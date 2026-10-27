@@ -45,8 +45,8 @@ The project started with a responsive HTML/CSS interface and was extended with b
 ### Installation
 
 ```bash
-git clone https://github.com/<YOUR-USERNAME>/<YOUR-REPOSITORY>.git
-cd <YOUR-REPOSITORY>
+git clone https://github.com/tBone444/geotag-app.git
+cd geotag-app
 npm install
 npm start
 ```
